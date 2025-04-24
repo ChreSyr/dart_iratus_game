@@ -1,4 +1,4 @@
-import 'package:iratus_game/iratus_game.dart';
+import 'package:dart_iratus_game/dart_iratus_game.dart';
 
 void main() {
   IratusGame game = IratusGame();

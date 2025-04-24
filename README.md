@@ -9,7 +9,7 @@ It includes all the features necessary for classic chess such as FEN and PGN not
 Easily start a game in the console :
 
 ```dart
-import 'package:iratus_game/iratus_game.dart';
+import 'package:dart_iratus_game/dart_iratus_game.dart';
 
 void main() {
   ConsoleView cv = ConsoleView();

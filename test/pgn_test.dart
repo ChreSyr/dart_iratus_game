@@ -1,5 +1,5 @@
-import 'package:iratus_game/iratus_game.dart';
-import 'package:iratus_game/src/pgn.dart';
+import 'package:dart_iratus_game/dart_iratus_game.dart';
+import 'package:dart_iratus_game/src/pgn.dart';
 import 'package:test/test.dart';
 
 void main() {

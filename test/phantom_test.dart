@@ -1,7 +1,7 @@
 // Phantoms are correctly transformed
 // It is possible to have 0, 1 or more phantoms
 
-import 'package:iratus_game/iratus_game.dart';
+import 'package:dart_iratus_game/dart_iratus_game.dart';
 import 'package:test/test.dart';
 
 void main() {
